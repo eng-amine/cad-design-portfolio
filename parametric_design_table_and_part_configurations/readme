@@ -1,0 +1,4 @@
+## Project Overview
+This project demonstrates the application of design automation and variant management within SolidWorks utilizing embedded Microsoft Excel **Design Tables**. Instead of manually modeling individual parts for varying dimensional requirements, this project uses a master parametric part controlled entirely by an external mathematical matrix. 
+
+This approach reflects industry-standard configuration controls used to manage large part catalogs, standard components (fasteners, brackets, pins), and family-of-parts manufacturing pipelines.
